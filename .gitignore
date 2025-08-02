@@ -36,3 +36,7 @@ dist/
 # Cache
 .cache/
 *.sqlite3
+
+# Gmail API credentials and tokens
+credentials.json
+token.json
